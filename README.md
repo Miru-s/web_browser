@@ -15,3 +15,7 @@ A home button to return to the user's home page
 An address bar to input the Uniform Resource Identifier (URI) of the desired
 resource and display it.
 
+
+
+https://user-images.githubusercontent.com/78691192/125193299-62163c80-e269-11eb-8adb-6019e12feb1e.mp4
+
