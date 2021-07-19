@@ -1,3 +1,8 @@
+## Mirnalin's Browser
+
+ https://miru-s.github.io/web_browser/
+
+
 In this project I used Python to create a replica of one of the most popular and widely used Web Browsers, Google. The programming language used in my project is Python and the IDE used is Pycharm. 
 
 The Web browser has these user interface elements in common.
